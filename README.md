@@ -1,4 +1,4 @@
-# Capstone : La Finalisation de l'application "Réservation de salles"
+# Capstone : Finalisation de l'application "Réservation de salles"
 
 # Objectifs de ce TP
  - Finalisation de l'application de réservation de salles
